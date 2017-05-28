@@ -6,3 +6,5 @@ Image with both adminer and *adminer editor*. This editor version has a modified
 |:---|:---|
 |/adminer.php|adminer|
 |/adminer-editor.php|editor|
+
+For details see https://github.com/kunstfpa/adminer-editor.
